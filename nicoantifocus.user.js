@@ -7,8 +7,8 @@
 // @include        http://de.nicovideo.jp/watch/*
 // @include        http://es.nicovideo.jp/watch/*
 // @include        http://tw.nicovideo.jp/watch/*
-// @downloadURL    https://raw.githubusercontent.com/tmsanrinsha/nicoantifocus.user.js/master/nicoantifocus.user.js
-// @updateURL      https://raw.githubusercontent.com/tmsanrinsha/nicoantifocus.user.js/master/nicoantifocus.user.js
+// @downloadURL    https://raw.githubusercontent.com/tmsanrinsha/nicoantifocus-user-js/master/nicoantifocus.user.js
+// @updateURL      https://raw.githubusercontent.com/tmsanrinsha/nicoantifocus-user-js/master/nicoantifocus.user.js
 // @version        1.0
 // ==/UserScript==
 //

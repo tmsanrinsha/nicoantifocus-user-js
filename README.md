@@ -6,7 +6,7 @@ VimperatorでEMBEDになって、キー制御できなくなるのを防ぐ。
 
 サイトを追加すればYoutubeなどでも使える。
 
-* [インストール](https://raw.githubusercontent.com/tmsanrinsha/nicoantifocus.user.js/master/nicoantifocus.user.js)
+* [インストール](https://raw.githubusercontent.com/tmsanrinsha/nicoantifocus-user-js/master/nicoantifocus.user.js)
 
 ## オリジナル
 
